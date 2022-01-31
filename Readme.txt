@@ -1,0 +1,1 @@
+Aquivo inicial, criado para orientar a melhor forma de se usar esse Repositório.
